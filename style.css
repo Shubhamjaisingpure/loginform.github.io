@@ -5,7 +5,7 @@ html {
     margin:0;
     padding:0;
     font-family: sans-serif;
-    background: linear-gradient(#141e30, #243b55);
+    background: linear-gradient(#0b677e, #597e96 ,rgb(160, 155, 155));
   }
   
   .login-box {
@@ -17,7 +17,7 @@ html {
     transform: translate(-50%, -50%);
     background: rgba(0,0,0,.5);
     box-sizing: border-box;
-    box-shadow: 0 15px 25px rgba(0,0,0,.6);
+    box-shadow: 0 15px 25px rgba(7, 7, 7, 0.6);
     border-radius: 10px;
   }
   
@@ -25,7 +25,7 @@ html {
     margin: 0 0 30px;
     padding: 0;
     color: #fff;
-    text-align: center;
+    text-align: right;
   }
   
   .login-box .user-box {
